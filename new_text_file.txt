@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 new file
+testing branch
+=======
+new file
+>>>>>>> 1b0cda7aea92f8133f150dc98628df264290adcf
